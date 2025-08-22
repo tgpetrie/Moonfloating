@@ -1,0 +1,14 @@
+.tmp.driveupload/
+.tmp.drivedownload/
+.vercel/
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+.vscode/
+.venv/
+.env
+.env.*.local
+*.env
+*.zip
